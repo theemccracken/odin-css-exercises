@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.the-first {
+    background-color: black;
+    color: white;
+}
+
+.the-second {
+    background-color: yellow;
+}
+.the-first,
+.the-second {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
